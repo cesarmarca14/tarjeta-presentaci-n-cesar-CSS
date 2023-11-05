@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url(./img/fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    color: rgba(245, 245, 220, 0.761);
+    text-align: center;
+    display: flex;
+    
+}
+
+.perfil img{
+    
+    border-radius:300px;
+    width: 260px;
+    height: 280px;
+    justify-content: center;
+}
+
+.perfil{
+
+    background-color: rgba(134, 134, 138, 0.358);
+    border-radius: 50px;
+    margin:auto ;
+    width: 355px;
+    height: 450.px;
+    
+}
+    
